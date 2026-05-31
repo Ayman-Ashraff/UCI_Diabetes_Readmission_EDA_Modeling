@@ -32,9 +32,9 @@ identify high-risk patients BEFORE they are discharged.
 - Enables targeted interventions by risk category
 
 ## 🔍 Project Structure
-├── healthcare_readmission.ipynb  # Main analysis notebook
-├── cleaned_diabetic_data.csv     # Processed dataset
-└── visualizations/               # All generated charts
+├── healthcare_readmission.ipynb  
+├── cleaned_diabetic_data.csv     
+└── visualizations/              
 
 ## 📋 Key Steps
 1. Data Quality Assessment
